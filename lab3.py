@@ -1,5 +1,6 @@
 import torch
-import numpy as np
+import numpy
+import matplotlib
 
 #a)对包含矩形对象的二进制图像进行膨胀操作。
 BW=zeros(9,10);
